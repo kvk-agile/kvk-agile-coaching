@@ -2,7 +2,7 @@ Agile Coaching Portfolio 🧭
 
 A portfolio site built as an evidence file, not a resume — what I did, why, and what changed as a result, across four industries and thirteen years.
 
-🔗 Live site: talktokvk-ship-it.github.io/kvk-agile-coaching
+🔗 Live site: https://kvk-agile.github.io/kvk-agile-coaching/
 
 What this is
 
